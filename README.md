@@ -1,4 +1,4 @@
-# GithubActionsTutorial
+# How to use Github actions
 
 Basic Github Actions Workflow for running mocha unit tests. 
 
